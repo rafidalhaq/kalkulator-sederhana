@@ -12,7 +12,12 @@ Program ini dibuat untuk melakukan perhitungan sederhana seperti :
 - Wampserver Version 3.2.3
 
 ## Instalasi
-1. 
+1. Akses link https://github.com/rafidalhaq/kalkulator-sederhana.git
+2. Clone project klik code lalu download file .zip
+3. Extract file zip 
+4. Simpan di folder wamp/www  atau xampp/htdocs
+5. Masuk Browser akses localhost/nama_file.php
+6. Sesuaikan nama_file.php dengan yg di download
 
 
 ## Penggunaan
